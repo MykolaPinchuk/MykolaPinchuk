@@ -16,3 +16,14 @@ Streaming datasets projects are likely to be much more complex. Probably I will 
 To do deployment I will probably need Cloud Run or Cloud Functions. Plus I will have to set up monitoring and reporting somehow.
 
 
+Deploying projects following this template seems straightforward enough. I need not use Cloud Shell CLI. 'lynx <url> -dump' is probably good enough to test webapp locally. Editing html files and main.py to do what i want seem pretty simple.
+  
+ 
+  
+  
+Next steps in this pipeline:
+- add unit tests
+  
+  
+  
+
