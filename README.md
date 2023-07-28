@@ -1,3 +1,3 @@
-I am a PhD student, interested in Data Science and Machine Learning.
+I am a Data Scientist and enjoy building Machine Learning models. 
 
 Email: pinchukmykola@gmail.com.
