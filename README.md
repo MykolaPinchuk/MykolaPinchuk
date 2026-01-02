@@ -1,3 +1,3 @@
-I am a Data Scientist. 
+Data Scientist. 
 
 
